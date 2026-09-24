@@ -1,0 +1,11 @@
+# Binaries and object files
+scripts/ambilight/asus_ambilight
+*.o
+*.so
+
+# Temporary files and logs
+*.log
+/tmp/
+.DS_Store
+*~
+*.swp
